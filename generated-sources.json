@@ -8,44 +8,44 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@astryxdesign/cli/-/cli-0.7.1.tgz",
-    "sha512": "311047f9063e0eb0d1c2a5c19c39fb8614b93150059d0a2df27a666406140381e35c5f4d587ebcac6166ffe33eb0ff76f1c06069ed4049fe140372b712cf419a",
-    "dest": "bun_cache/@astryxdesign/cli@0.7.1@@@1",
+    "url": "https://registry.npmjs.org/@astryxdesign/cli/-/cli-0.7.4.tgz",
+    "sha512": "e4d980940e1885921160639bbe4ff361a5660c83559ca97b036e17c9a5b3d0ac512bbe3b2feff9661c99d5a66257ea75667fbdf7346a5cb3b2dba95a7cc4a796",
+    "dest": "bun_cache/@astryxdesign/cli@0.7.4@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@astryxdesign/core/-/core-0.7.1.tgz",
-    "sha512": "334038ccc2a1d14e27a9baeda12d5c06f5706dfcf6ec319d06c328ef68b0de2bda87b9cd7d44cdbd7b6e3acc20c04cad3cae686ec4663572ed150ae32523eb97",
-    "dest": "bun_cache/@astryxdesign/core@0.7.1@@@1",
+    "url": "https://registry.npmjs.org/@astryxdesign/core/-/core-0.7.4.tgz",
+    "sha512": "cddfd77d4c3c387f038fae70e9c3d86a631781bd753fba0882b9578320466875ca262dda79d914d7b43e944460bfb60bdc1bf8fd428f32a28bfd0664be86b2d7",
+    "dest": "bun_cache/@astryxdesign/core@0.7.4@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@astryxdesign/theme-matcha/-/theme-matcha-0.7.1.tgz",
-    "sha512": "d194ee5ade87a897013dc1a2661a96011fb9964c8492df19bb90380fca0c6b78b80c3008e4f0e78787438ad55cc5a6275f0a12ea6afdf930b49dff599f4ec7b5",
-    "dest": "bun_cache/@astryxdesign/theme-matcha@0.7.1@@@1",
+    "url": "https://registry.npmjs.org/@astryxdesign/theme-matcha/-/theme-matcha-0.7.4.tgz",
+    "sha512": "d93997e9d3de5534d139f1e4ede7fba0d1b41770c54a736c70ce0be485e6a0719e856f03e4832f604a4f00a31f760996d79cf155064a3c75215378d9b51b2c7f",
+    "dest": "bun_cache/@astryxdesign/theme-matcha@0.7.4@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@astryxdesign/theme-neutral/-/theme-neutral-0.7.1.tgz",
-    "sha512": "c5f5f2b07d1d7b7eb3267aceeeed7d14350e0bded33a20644a13ef99fa152ebab21d1b6413b7fa57f1d6a893c43665f76547a813722d746a011e09b4b6a8259f",
-    "dest": "bun_cache/@astryxdesign/theme-neutral@0.7.1@@@1",
+    "url": "https://registry.npmjs.org/@astryxdesign/theme-neutral/-/theme-neutral-0.7.4.tgz",
+    "sha512": "228191c51a5c0166a8e2334bf87b15d2ddeb94259e578118af33f9e22451457133536d57c4c741b7e07adf2fa7ffce26064cf2077f2f18afc1b989116d50c1b7",
+    "dest": "bun_cache/@astryxdesign/theme-neutral@0.7.4@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@astryxdesign/theme-stone/-/theme-stone-0.7.1.tgz",
-    "sha512": "526beded7646be078cdcb98cc9cd7523623225fa91f8018ae8980c19b538d4a6c369fa7e010ba85016f206a2e0ffb040ed22862b723a11fa13a40915669d6004",
-    "dest": "bun_cache/@astryxdesign/theme-stone@0.7.1@@@1",
+    "url": "https://registry.npmjs.org/@astryxdesign/theme-stone/-/theme-stone-0.7.4.tgz",
+    "sha512": "0a0d7e18f2cd839250c48f17625ca46b30cd168589c6d8a7aad5125a4d06f9c7598fc5198518aff0fc98145895477782762980803c26a6b04d86b1658f7edf4b",
+    "dest": "bun_cache/@astryxdesign/theme-stone@0.7.4@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@astryxdesign/theme-y2k/-/theme-y2k-0.7.1.tgz",
-    "sha512": "add9be142db8f92e8705bc01eae51c4d74bb4fc3ba4dfe308aedd9de6a2186dce919d4a55b73c5fb94fb027fddbbbbbd16abb651fd86be59991c0d14827f122d",
-    "dest": "bun_cache/@astryxdesign/theme-y2k@0.7.1@@@1",
+    "url": "https://registry.npmjs.org/@astryxdesign/theme-y2k/-/theme-y2k-0.7.4.tgz",
+    "sha512": "d1f5ebeb0637fbf018f5c67b4ad600693c0de7a4b7a88bc793fe7179a2fe2003cd914d4c7650c6cb8a289cd7a4805f7f0a069224a58ed1eceb40ed7a0d54c8c8",
+    "dest": "bun_cache/@astryxdesign/theme-y2k@0.7.4@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -71,9 +71,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@babel/generator/-/generator-7.29.8.tgz",
-    "sha512": "8196dea6c761dd60ed8192962febd33e1ef52d206b9bf638fd00d905509c61f99e4c412ea0e630952cbe1b54ad7c983efd9cb9e74bbfdd30136e6eea0db6ccb6",
-    "dest": "bun_cache/@babel/generator@7.29.8@@@1",
+    "url": "https://registry.npmjs.org/@babel/generator/-/generator-7.29.12.tgz",
+    "sha512": "d96efa9a18eba5014ed652b97bc22f1980760f4619ed2d91d59d818ced99518b96f9a99ca4aff3eb453a6599b3b24c286bbb09e97a213ff5a0f07e4ac5723f20",
+    "dest": "bun_cache/@babel/generator@7.29.12@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -92,9 +92,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@babel/helper-create-class-features-plugin/-/helper-create-class-features-plugin-7.29.7.tgz",
-    "sha512": "218dd90fd4e6a28aabdd35217370d45b18aea3cc71d4358b85de4cee143e65625a9aa33605b6a5ac125bd8c8ac48ba18a2b3a3ef9534dea50b0b141363daf786",
-    "dest": "bun_cache/@babel/helper-create-class-features-plugin@7.29.7@@@1",
+    "url": "https://registry.npmjs.org/@babel/helper-create-class-features-plugin/-/helper-create-class-features-plugin-7.29.12.tgz",
+    "sha512": "002c46a16315f3aeaafd09591de08e69064047941c94ab08be40269437a6aa39bafba0729e28ecd661f4ebc0731f63767bec12b83981598f3b7ea29fbe18b52f",
+    "dest": "bun_cache/@babel/helper-create-class-features-plugin@7.29.12@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -155,9 +155,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@babel/helper-string-parser/-/helper-string-parser-7.29.7.tgz",
-    "sha512": "3dbe628cfad9f3d1831fcdb6dcbe143fc8ba400a56c6cd3845b3d02537960d5d3f91e476137e8c78a9f2afa2d899452fa91448f88bfced2b85d56e84ac837363",
-    "dest": "bun_cache/@babel/helper-string-parser@7.29.7@@@1",
+    "url": "https://registry.npmjs.org/@babel/helper-string-parser/-/helper-string-parser-7.29.11.tgz",
+    "sha512": "b2765b3bb3040cea1ffa1bcd6bdec48c463ba83ee1da4c2f42be40242dd9850b9d296e5d9de8fa93790ff4d415f3c849c1a4bcbc3a912c5a3dae2bcb12195eda",
+    "dest": "bun_cache/@babel/helper-string-parser@7.29.11@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -295,9 +295,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@babel/traverse/-/traverse-7.29.10.tgz",
-    "sha512": "07795802cda790ab246e04359dfcbc31af5aa3d435ae7b530101ebcf3c83ba3f9348ef97de57ba3df5b0a83be876c6fe3ae984d7478c15fb8c0934124398ae21",
-    "dest": "bun_cache/@babel/traverse@7.29.10@@@1",
+    "url": "https://registry.npmjs.org/@babel/traverse/-/traverse-7.29.12.tgz",
+    "sha512": "32c7177bf34065c3a4604b116a31d916ddf29ec6f6d8f522e824eba7953bf91632711f41cbce269fd985379e1881f2138aa2b8845c7726eded652cb37e94b97b",
+    "dest": "bun_cache/@babel/traverse@7.29.12@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -309,16 +309,16 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@biomejs/biome/-/biome-2.5.15.tgz",
-    "sha512": "5994d6e2c966fe976487dd8aeadff768437efb8e090f53d0eecaaeed108c2c8d5f9471a5e370d5388197bc28c789980130ed55e2e631a0536daab200e2a1ae21",
-    "dest": "bun_cache/@biomejs/biome@2.5.15@@@1",
+    "url": "https://registry.npmjs.org/@biomejs/biome/-/biome-2.6.4.tgz",
+    "sha512": "f2c28ac1a356e28b76d9ac19de5063c162c79d41578179eb04f612da03650405d16c30befbb92a8cad87edd47f160083b4fbced717caa601212641b100a624c4",
+    "dest": "bun_cache/@biomejs/biome@2.6.4@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@biomejs/cli-linux-arm64/-/cli-linux-arm64-2.5.15.tgz",
-    "sha512": "5da1bb3fb79e48b6044c3dcaf60adf0749909a92d0663ca075bb317a45812408386a6efd7c602d4697d1c8d9d3bd70767d914d9c9646de75e6ec705ab74f9553",
-    "dest": "bun_cache/@biomejs/cli-linux-arm64@2.5.15@@@1",
+    "url": "https://registry.npmjs.org/@biomejs/cli-linux-arm64/-/cli-linux-arm64-2.6.4.tgz",
+    "sha512": "ebe6cad58fdebe6214889afb6ae7abb6e31b89a61589c261a80d5b6722f8ee508c5ae82ff25d201500aabd1fe0375bd9307626f87c284ca81e33174d142a104e",
+    "dest": "bun_cache/@biomejs/cli-linux-arm64@2.6.4@@@1",
     "dest-filename": "package.tgz",
     "only-arches": [
       "aarch64"
@@ -326,9 +326,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@biomejs/cli-linux-arm64-musl/-/cli-linux-arm64-musl-2.5.15.tgz",
-    "sha512": "b46cd9513709095eed8f901d87f1a7ea747833272a0378a886ad8b11cadaac081106453487438a77653309190eb0e60eb9419a5096f8626a91ab2cb67de1864b",
-    "dest": "bun_cache/@biomejs/cli-linux-arm64-musl@2.5.15@@@1",
+    "url": "https://registry.npmjs.org/@biomejs/cli-linux-arm64-musl/-/cli-linux-arm64-musl-2.6.4.tgz",
+    "sha512": "df565a1ff307a8f5fe3be7af47046b08743c5b9ffd69d63efde332b46196667471d53e3542c588174f7efd6ba3ca72c1856654c4d192e42b6c58bc203854c0ca",
+    "dest": "bun_cache/@biomejs/cli-linux-arm64-musl@2.6.4@@@1",
     "dest-filename": "package.tgz",
     "only-arches": [
       "aarch64"
@@ -336,9 +336,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@biomejs/cli-linux-x64/-/cli-linux-x64-2.5.15.tgz",
-    "sha512": "c44e22116ff72ea9588fd185806ac5b05487e7574412951b61605f78ebf4abced69140f12b6a3f1e1ade49beea309a9c93bd1154ce8b83dea181e75c01870e90",
-    "dest": "bun_cache/@biomejs/cli-linux-x64@2.5.15@@@1",
+    "url": "https://registry.npmjs.org/@biomejs/cli-linux-x64/-/cli-linux-x64-2.6.4.tgz",
+    "sha512": "b5b15931d2fa74fff0b3879d5f1606f5686f6956b5643ccbe06e43cda867596ecfb226fd1fe5537725385d7571a499398ff9d866ba126ef48dc989695b7c8223",
+    "dest": "bun_cache/@biomejs/cli-linux-x64@2.6.4@@@1",
     "dest-filename": "package.tgz",
     "only-arches": [
       "x86_64"
@@ -346,9 +346,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@biomejs/cli-linux-x64-musl/-/cli-linux-x64-musl-2.5.15.tgz",
-    "sha512": "225c54732c6295518fb04d34f31d77a567644db5379d0a4fda2f5be54adb3988fa8280642ac457d5707bc892dc57e3b51fd2c17212089b869d39a54b6415f465",
-    "dest": "bun_cache/@biomejs/cli-linux-x64-musl@2.5.15@@@1",
+    "url": "https://registry.npmjs.org/@biomejs/cli-linux-x64-musl/-/cli-linux-x64-musl-2.6.4.tgz",
+    "sha512": "6e89926b65dd4001868fa0b0766e0cd77a84fa537df803a55bc2ad23885dc95c91445fd9ef5a8f022f794f8c2d7592b442905b9135bc8606d9642c0f8b8c7323",
+    "dest": "bun_cache/@biomejs/cli-linux-x64-musl@2.6.4@@@1",
     "dest-filename": "package.tgz",
     "only-arches": [
       "x86_64"
@@ -496,9 +496,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@hugeicons/core-free-icons/-/core-free-icons-4.3.5.tgz",
-    "sha512": "4aff8d8c744f9d093ec99b0608c706ce70877537c947d3cc30e10a709600414e20cbdd1d9a573d3f076dbd83889816488e285e32c4cb2f978c9f60e61f152252",
-    "dest": "bun_cache/@hugeicons/core-free-icons@4.3.5@@@1",
+    "url": "https://registry.npmjs.org/@hugeicons/core-free-icons/-/core-free-icons-4.4.0.tgz",
+    "sha512": "ecccfc6e61a863ab59ea5dc2d935f034c2d54abd08f073f08e314811102e2458f7ad6c0bc5d17664b903a9dad5b84135771e5bfd55f222c3f85a8494e90e3429",
+    "dest": "bun_cache/@hugeicons/core-free-icons@4.4.0@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -662,9 +662,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@oxc-project/types/-/types-0.154.0.tgz",
-    "sha512": "2983941901652d647eb3840c57643d928dfc4d99bb11d3bced09bbaef64baa4ff079bb1efdc0e3b72c4a860ff8ee5d1bc826ecfe4e3a2d3f2a7383ca8c08a4cc",
-    "dest": "bun_cache/@oxc-project/types@0.154.0@@@1",
+    "url": "https://registry.npmjs.org/@oxc-project/types/-/types-0.156.0.tgz",
+    "sha512": "d43bb2838f1374935dca1101f179f52f7e9b4fd3efe8652d94a8c7c4ecacf3191a17fad0ab75c913e6c0bab48afc0808cf998616c6fbedc9fd3dbdb4f9609273",
+    "dest": "bun_cache/@oxc-project/types@0.156.0@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -751,23 +751,23 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@oxlint/binding-linux-arm-gnueabihf/-/binding-linux-arm-gnueabihf-1.89.0.tgz",
-    "sha512": "393144be2f56f897336990f509a8f5ed2182a16f07ed313e7efc740fb0131166b52e8867f7550cc4543aaf5e394a21b2ff20b1788c29b4ccacfd100cee049549",
-    "dest": "bun_cache/@oxlint/binding-linux-arm-gnueabihf@1.89.0@@@1",
+    "url": "https://registry.npmjs.org/@oxlint/binding-linux-arm-gnueabihf/-/binding-linux-arm-gnueabihf-1.90.0.tgz",
+    "sha512": "ce1c47efc78fda747afe919d84173b3087e38617200137aef1f92690525bbb37e4e828f4173071c8484bf39c83aab0b26e3c7e1b6603cd91acc483bd92f3b823",
+    "dest": "bun_cache/@oxlint/binding-linux-arm-gnueabihf@1.90.0@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@oxlint/binding-linux-arm-musleabihf/-/binding-linux-arm-musleabihf-1.89.0.tgz",
-    "sha512": "7d1c60347bc12ecc23e8cae15b6b81ab950384f4509426c77aafcd7fccae1bdccec610ec5ea5ff9a2d8f5f56b182c431326f3c7a5ec72e2240ce09409df958c7",
-    "dest": "bun_cache/@oxlint/binding-linux-arm-musleabihf@1.89.0@@@1",
+    "url": "https://registry.npmjs.org/@oxlint/binding-linux-arm-musleabihf/-/binding-linux-arm-musleabihf-1.90.0.tgz",
+    "sha512": "32f626a47c89a9426312f9196c91ddc1f74be397069fc115064626a17162698156f6cba80f775b265e6605da72d0356076397275d9a575b46d9377028044da75",
+    "dest": "bun_cache/@oxlint/binding-linux-arm-musleabihf@1.90.0@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@oxlint/binding-linux-arm64-gnu/-/binding-linux-arm64-gnu-1.89.0.tgz",
-    "sha512": "bfd10dcc7bf0ad0a184964edbe21f5a4e61ced1f54a2f0f15687e7724e7470d98f8a14514dcae0e57d149516cb399ec856dc4f3a587685bee40cef85a44f127d",
-    "dest": "bun_cache/@oxlint/binding-linux-arm64-gnu@1.89.0@@@1",
+    "url": "https://registry.npmjs.org/@oxlint/binding-linux-arm64-gnu/-/binding-linux-arm64-gnu-1.90.0.tgz",
+    "sha512": "2f5dd2cbe2a0d27661c13b13a278aa8d414f0364ee33af7adaa099e56a7929e079d7b4f0ec0a5d2d34ed95bf9b17ce9f71965ad84b6f095bc02719380f26bf31",
+    "dest": "bun_cache/@oxlint/binding-linux-arm64-gnu@1.90.0@@@1",
     "dest-filename": "package.tgz",
     "only-arches": [
       "aarch64"
@@ -775,9 +775,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@oxlint/binding-linux-arm64-musl/-/binding-linux-arm64-musl-1.89.0.tgz",
-    "sha512": "bdf7df7bc990e3ce00cd569d954385a602fe243c21becf61af3c538103f51557e2e1911451879f7d79730bd74557b0e09eee6cfcaacd2af7e61ba1f105dfc849",
-    "dest": "bun_cache/@oxlint/binding-linux-arm64-musl@1.89.0@@@1",
+    "url": "https://registry.npmjs.org/@oxlint/binding-linux-arm64-musl/-/binding-linux-arm64-musl-1.90.0.tgz",
+    "sha512": "c050dd6561a9cc83c574916348b5a7281d131b316b89329422b974e2232a33233d0412094ee7ab7c21d86b45a90d28ebe71de5716fc21cbc9a712b7cf3a5a91a",
+    "dest": "bun_cache/@oxlint/binding-linux-arm64-musl@1.90.0@@@1",
     "dest-filename": "package.tgz",
     "only-arches": [
       "aarch64"
@@ -785,37 +785,37 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@oxlint/binding-linux-ppc64-gnu/-/binding-linux-ppc64-gnu-1.89.0.tgz",
-    "sha512": "06ea27969e21552ed118d3f933b6cfa46350ade9f2cc0d82eb825c3bfa33f42d5ce9d18e5c9ed51009da880318eefa28bb4258c8225dbc35651507390d95f70d",
-    "dest": "bun_cache/@oxlint/binding-linux-ppc64-gnu@1.89.0@@@1",
+    "url": "https://registry.npmjs.org/@oxlint/binding-linux-ppc64-gnu/-/binding-linux-ppc64-gnu-1.90.0.tgz",
+    "sha512": "151cb07e7f8ca0a9fcc69052ce037035596248a448d905e4c62fe217ba3a14442cf0187ccf646955368501c3b7a5c8578ef0767863452282cb40004843ebbb54",
+    "dest": "bun_cache/@oxlint/binding-linux-ppc64-gnu@1.90.0@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@oxlint/binding-linux-riscv64-gnu/-/binding-linux-riscv64-gnu-1.89.0.tgz",
-    "sha512": "d5e570249ac9de56083d3f9c9bb05c0416595d8e884193ffa32a276abb93a2bfccad5c963a9be7c2dd680f908b76c1e0e5a5412315e87504afb7ed602ba724e7",
-    "dest": "bun_cache/@oxlint/binding-linux-riscv64-gnu@1.89.0@@@1",
+    "url": "https://registry.npmjs.org/@oxlint/binding-linux-riscv64-gnu/-/binding-linux-riscv64-gnu-1.90.0.tgz",
+    "sha512": "212d8f69482973fa9e2c00d3ca150d99dc77c788a3b3da6325d3ca0581da4fe98013b93716c8e71cf4e3869b1a9356fefa1e8220f86fe965fd67ecbb3f0d2fa1",
+    "dest": "bun_cache/@oxlint/binding-linux-riscv64-gnu@1.90.0@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@oxlint/binding-linux-riscv64-musl/-/binding-linux-riscv64-musl-1.89.0.tgz",
-    "sha512": "7d1410b0a5064a17442f9165f68f6e863de0ae465b79728bbf489c439b6ca5408d6120f2f30cf311c3f5582d9b29d4d0d2b4accdb2a53b78a21ce471576d832e",
-    "dest": "bun_cache/@oxlint/binding-linux-riscv64-musl@1.89.0@@@1",
+    "url": "https://registry.npmjs.org/@oxlint/binding-linux-riscv64-musl/-/binding-linux-riscv64-musl-1.90.0.tgz",
+    "sha512": "b3b2452919064bc3bb8b66553837ee3bef8d0bbb07e870eaa4c9fc958c70f75c3449724ec670158d0f2eb6f983c0b30c4f48da4a4b8e2ae518243183b6ee2c1d",
+    "dest": "bun_cache/@oxlint/binding-linux-riscv64-musl@1.90.0@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@oxlint/binding-linux-s390x-gnu/-/binding-linux-s390x-gnu-1.89.0.tgz",
-    "sha512": "744b588c8cbaf9f1dc8ca925b26b663246518701ebd946f38e6a6fb8fb5061278df5ac10da1c7924b9ace56beb8bef0ffcd66d0fcbf985f80700b52a97efd872",
-    "dest": "bun_cache/@oxlint/binding-linux-s390x-gnu@1.89.0@@@1",
+    "url": "https://registry.npmjs.org/@oxlint/binding-linux-s390x-gnu/-/binding-linux-s390x-gnu-1.90.0.tgz",
+    "sha512": "6f41b1ace42be5538d0a477b28b4aa98fe9bea7a99b93a6e4bc40f407ce5b66a9d5cfe5b634265d026744269424eb4b713168b61b8a815838047335b62f700a5",
+    "dest": "bun_cache/@oxlint/binding-linux-s390x-gnu@1.90.0@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@oxlint/binding-linux-x64-gnu/-/binding-linux-x64-gnu-1.89.0.tgz",
-    "sha512": "86a8f0223e4a39833c5a379ffe9ec8aee362d620722e14b36cc064eb6cb6d8ffc4f2aec98f43e9f837944ca4d1632658083b54d7010696758e9edb476f2348c3",
-    "dest": "bun_cache/@oxlint/binding-linux-x64-gnu@1.89.0@@@1",
+    "url": "https://registry.npmjs.org/@oxlint/binding-linux-x64-gnu/-/binding-linux-x64-gnu-1.90.0.tgz",
+    "sha512": "89a25e4a126d814a7cad96edf5851d4c018ea665f92a88022db6b5ec9a75b56749dc5e0cdc3da0d93294c88d453131f1287f4d347b9072e0b6919460e8857bc9",
+    "dest": "bun_cache/@oxlint/binding-linux-x64-gnu@1.90.0@@@1",
     "dest-filename": "package.tgz",
     "only-arches": [
       "x86_64"
@@ -823,9 +823,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@oxlint/binding-linux-x64-musl/-/binding-linux-x64-musl-1.89.0.tgz",
-    "sha512": "88040dddeea8f5481409c746c2a471fe361c29b1b71caeeeaf7ac7ea54ea55c41e34667ce40796220e9c827fde770150d287c465922d330933c825536a19ef10",
-    "dest": "bun_cache/@oxlint/binding-linux-x64-musl@1.89.0@@@1",
+    "url": "https://registry.npmjs.org/@oxlint/binding-linux-x64-musl/-/binding-linux-x64-musl-1.90.0.tgz",
+    "sha512": "fda6685e72f95812c25eecdf1eabc4157726e22c189abfdc601c870d35f32c5cc9744e430bb6e6ea98695aa1efe817aaa55818f48a41031183bf6584925e490a",
+    "dest": "bun_cache/@oxlint/binding-linux-x64-musl@1.90.0@@@1",
     "dest-filename": "package.tgz",
     "only-arches": [
       "x86_64"
@@ -1267,16 +1267,16 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@rolldown/binding-linux-arm-gnueabihf/-/binding-linux-arm-gnueabihf-1.2.14.tgz",
-    "sha512": "06ac0ab1d6507fa12a556afc7efd8cac363302f399efe3581522444911acf3b7e4b1e121b344d4f535e04494e46684519314e2cf2120d4b2945df537ffbf2eaa",
-    "dest": "bun_cache/@rolldown/binding-linux-arm-gnueabihf@1.2.14@@@1",
+    "url": "https://registry.npmjs.org/@rolldown/binding-linux-arm-gnueabihf/-/binding-linux-arm-gnueabihf-1.2.16.tgz",
+    "sha512": "b4774a59b16414123af3b8a29b72c8c88bf22fb8fae95bd06240cfb2ce52b67feac84dad5a4475603d1d5e65cf14a2aa4ffa39644255b1a46c592da6790c0638",
+    "dest": "bun_cache/@rolldown/binding-linux-arm-gnueabihf@1.2.16@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@rolldown/binding-linux-arm64-gnu/-/binding-linux-arm64-gnu-1.2.14.tgz",
-    "sha512": "483f6463c334d3dc7feece7b67576051594fe7eb980602902b44e4af55885a782bb542664425b544914c63b40395ada48578668368b9228ecc52372664d67f29",
-    "dest": "bun_cache/@rolldown/binding-linux-arm64-gnu@1.2.14@@@1",
+    "url": "https://registry.npmjs.org/@rolldown/binding-linux-arm64-gnu/-/binding-linux-arm64-gnu-1.2.16.tgz",
+    "sha512": "14988b1806e53c132504475b3aac3a916e907170d601ffe826eee062cf59259c2683e2beff38c52f13d3218f62cc9533c73736e051ef9ac7b203422f252975ef",
+    "dest": "bun_cache/@rolldown/binding-linux-arm64-gnu@1.2.16@@@1",
     "dest-filename": "package.tgz",
     "only-arches": [
       "aarch64"
@@ -1284,9 +1284,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@rolldown/binding-linux-arm64-musl/-/binding-linux-arm64-musl-1.2.14.tgz",
-    "sha512": "049d822f5f4ceaeb967ac3209ea273831a08f8df9e57b6f403d3bdbcb578db2fa08ad0b8d5f35af0a1256aed6d1d5cee2d65f91b312ec4c3e100ed2d41740c92",
-    "dest": "bun_cache/@rolldown/binding-linux-arm64-musl@1.2.14@@@1",
+    "url": "https://registry.npmjs.org/@rolldown/binding-linux-arm64-musl/-/binding-linux-arm64-musl-1.2.16.tgz",
+    "sha512": "86b2696e532cad0e7c53dbde5a96d7ce4855e734adba776ce8758ba6baaad6a6aebe006bd44e8ffb6e242e3ea548b23dbe3467fd16298e9ae190740f2865a936",
+    "dest": "bun_cache/@rolldown/binding-linux-arm64-musl@1.2.16@@@1",
     "dest-filename": "package.tgz",
     "only-arches": [
       "aarch64"
@@ -1294,23 +1294,23 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@rolldown/binding-linux-ppc64-gnu/-/binding-linux-ppc64-gnu-1.2.14.tgz",
-    "sha512": "e3e2a5f1d68f57c3431da0fb99f09c735a5133e420eda6fc0f2326e451b95a8660bf88768b72853750b26d804d6d0aa6b989bb7ed24bbe6308d5e1d8276d92fd",
-    "dest": "bun_cache/@rolldown/binding-linux-ppc64-gnu@1.2.14@@@1",
+    "url": "https://registry.npmjs.org/@rolldown/binding-linux-ppc64-gnu/-/binding-linux-ppc64-gnu-1.2.16.tgz",
+    "sha512": "a8977f742ea3e82c0b1bdfecfd13f69dbd51674188823ec8a23ef1fd261add1ce356b973ae61f47e120ea5fbea403788b1d3f49688be90768c849cd8d4f04868",
+    "dest": "bun_cache/@rolldown/binding-linux-ppc64-gnu@1.2.16@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@rolldown/binding-linux-s390x-gnu/-/binding-linux-s390x-gnu-1.2.14.tgz",
-    "sha512": "57f87c78fab57ca0eb9ad14ccfac5c08ddc32afbaf311af0c03d6ad0f90179ea380e92bae1b89a2afa96195c6a09e60aa9e464ee013bfe228fc4b0a7d3c3bdec",
-    "dest": "bun_cache/@rolldown/binding-linux-s390x-gnu@1.2.14@@@1",
+    "url": "https://registry.npmjs.org/@rolldown/binding-linux-s390x-gnu/-/binding-linux-s390x-gnu-1.2.16.tgz",
+    "sha512": "571ed7839b9426e35cba326323bd0e202687d04623f3406d38b65348deee39883c40e2e5c8a9da1b4216ec59ff27422926c68ace60ca321390bf524133d9bdbe",
+    "dest": "bun_cache/@rolldown/binding-linux-s390x-gnu@1.2.16@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@rolldown/binding-linux-x64-gnu/-/binding-linux-x64-gnu-1.2.14.tgz",
-    "sha512": "5b16a55f382b2d5a4a0bddf17e9689de0097516cde0abf854426c3543da6500cb82fa568de5355cf47a9504529c4f58990b35853033839222292fdfa389f662e",
-    "dest": "bun_cache/@rolldown/binding-linux-x64-gnu@1.2.14@@@1",
+    "url": "https://registry.npmjs.org/@rolldown/binding-linux-x64-gnu/-/binding-linux-x64-gnu-1.2.16.tgz",
+    "sha512": "4cd2a1804dee253b13cdab5449262dd0a828f8e6b6b929528f3e2bd5a10879aec75fa50b0729b87c09585211b58baa6335fda78df09401f2b0afa0b713d5e0d7",
+    "dest": "bun_cache/@rolldown/binding-linux-x64-gnu@1.2.16@@@1",
     "dest-filename": "package.tgz",
     "only-arches": [
       "x86_64"
@@ -1318,9 +1318,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@rolldown/binding-linux-x64-musl/-/binding-linux-x64-musl-1.2.14.tgz",
-    "sha512": "dc6ded9c0993a5d93d8cedc642dc875ea7850f64a579c7d3c2cfd8dccda69a3f67301c30b8b4f892eafcb1929ebbb10d5074a954eddc22c9b9039d8b1165b096",
-    "dest": "bun_cache/@rolldown/binding-linux-x64-musl@1.2.14@@@1",
+    "url": "https://registry.npmjs.org/@rolldown/binding-linux-x64-musl/-/binding-linux-x64-musl-1.2.16.tgz",
+    "sha512": "edc8577698d767ca86d3e988c4408dddc4fd92f859dffa1984c5fa3e9f3be8fec20eb232f2726cc2f6ba32adf9ec947b7985dfbac93067131e5754b3a19747ac",
+    "dest": "bun_cache/@rolldown/binding-linux-x64-musl@1.2.16@@@1",
     "dest-filename": "package.tgz",
     "only-arches": [
       "x86_64"
@@ -1349,9 +1349,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@sentry/bundler-plugins/-/bundler-plugins-11.8.0.tgz",
-    "sha512": "ad0adb2f69583f28a23ba9e07696db7cf2b213355542ccf5146f9a13c8d489462cef682f983999991ca5f550c218bac765f204c1a40c4f5b7a5901f99e8a6ee4",
-    "dest": "bun_cache/@sentry/bundler-plugins@11.8.0@@@1",
+    "url": "https://registry.npmjs.org/@sentry/bundler-plugins/-/bundler-plugins-11.10.0.tgz",
+    "sha512": "fa7809e3ce6b218965e6e3a1592bd23be571e12db83067b929c2ca95466086bf815cafa26f7dae04e64d1b6f78c06c9e6ae2d30ef7639dc2c463089a0673ffe7",
+    "dest": "bun_cache/@sentry/bundler-plugins@11.10.0@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -1398,9 +1398,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@sentry/vite-plugin/-/vite-plugin-11.8.0.tgz",
-    "sha512": "139cf32dca14d46d003ef13abffe0de7060ee2ae6f78e2383760e911e20084e3e6af132cbf6b72f5dd302b64c0dc2f9ec2a83e52feb54bce24ba1b5c0ba2611f",
-    "dest": "bun_cache/@sentry/vite-plugin@11.8.0@@@1",
+    "url": "https://registry.npmjs.org/@sentry/vite-plugin/-/vite-plugin-11.10.0.tgz",
+    "sha512": "d5e510986324ee73f0192e8f3779eecccf3e5349b33f4cda3e398edee6b8217ea077b1c5a5e7e4c6b88580ef7218e84204c496908915cf197b854ad14c22087f",
+    "dest": "bun_cache/@sentry/vite-plugin@11.10.0@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -1494,23 +1494,23 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@tauri-apps/cli/-/cli-2.12.3.tgz",
-    "sha512": "7fbfcbb18ef84956f50a198e3f0d5a8cea718a2d064b30c082658745c8bc25462eb9a8b4e2b5ec49b1686e9981d2c3f60dd96f303fc1e59a2d127f0638631152",
-    "dest": "bun_cache/@tauri-apps/cli@2.12.3@@@1",
+    "url": "https://registry.npmjs.org/@tauri-apps/cli/-/cli-2.12.4.tgz",
+    "sha512": "248f5b1dfb9d4912629063ab8db5c49ba463cf3be62ae2dcf898b1075344f21373424365082202de94c44b7bb2a6447d9711ebb1bc737274b0848d88c4142987",
+    "dest": "bun_cache/@tauri-apps/cli@2.12.4@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@tauri-apps/cli-linux-arm-gnueabihf/-/cli-linux-arm-gnueabihf-2.12.3.tgz",
-    "sha512": "d24c14571d8b6e63a84d1970175a03c30eed878fcd4a5bafe19050e8a459b052a0e20d13953708889d157a1aa441851e0bdc484f5324e97b45e76988d79e5549",
-    "dest": "bun_cache/@tauri-apps/cli-linux-arm-gnueabihf@2.12.3@@@1",
+    "url": "https://registry.npmjs.org/@tauri-apps/cli-linux-arm-gnueabihf/-/cli-linux-arm-gnueabihf-2.12.4.tgz",
+    "sha512": "2b4c3c0687fa2edf1028b018851cb4cb2dfa647e6203fdf956e48ebe7c728ef09467e03724ab144e500bbe21ffb15800962b1a3f3ce6789487f173a7e10d8704",
+    "dest": "bun_cache/@tauri-apps/cli-linux-arm-gnueabihf@2.12.4@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@tauri-apps/cli-linux-arm64-gnu/-/cli-linux-arm64-gnu-2.12.3.tgz",
-    "sha512": "80a4860f1e9fc7e1c12d0986ea0b82845762b1bac249dc7d6258be8f9b5e39aeb8826d4278cf82e8d2ebbb93e3dd992411ea74e41982163c6f5fe723a80c9c65",
-    "dest": "bun_cache/@tauri-apps/cli-linux-arm64-gnu@2.12.3@@@1",
+    "url": "https://registry.npmjs.org/@tauri-apps/cli-linux-arm64-gnu/-/cli-linux-arm64-gnu-2.12.4.tgz",
+    "sha512": "8f9ace9e39915305ab9b5a28b1fd330589780fe7eac9d81444e14293486f299c6f6d34fc48e1117acd1007bac157f5d6372fa433aa422b36f7a129b6b11825ce",
+    "dest": "bun_cache/@tauri-apps/cli-linux-arm64-gnu@2.12.4@@@1",
     "dest-filename": "package.tgz",
     "only-arches": [
       "aarch64"
@@ -1518,9 +1518,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@tauri-apps/cli-linux-arm64-musl/-/cli-linux-arm64-musl-2.12.3.tgz",
-    "sha512": "62be7da8ccbf81cbc07c1b857421a50261a22ec6163050dbb0fe1b008ea2341cdc2531ab6166467a2421183a36f4c4307c5fcd501ab2336aa58d7bb9b59eb08d",
-    "dest": "bun_cache/@tauri-apps/cli-linux-arm64-musl@2.12.3@@@1",
+    "url": "https://registry.npmjs.org/@tauri-apps/cli-linux-arm64-musl/-/cli-linux-arm64-musl-2.12.4.tgz",
+    "sha512": "68eb9edc5cba25befea1671f01552c5477de4f26d20add82668534e9a3b88efe1dd8ab3f2a76933f03002b708b11db863af04b63595b041ac8ca89aa2cb1f94a",
+    "dest": "bun_cache/@tauri-apps/cli-linux-arm64-musl@2.12.4@@@1",
     "dest-filename": "package.tgz",
     "only-arches": [
       "aarch64"
@@ -1528,16 +1528,16 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@tauri-apps/cli-linux-riscv64-gnu/-/cli-linux-riscv64-gnu-2.12.3.tgz",
-    "sha512": "8caaf4fd11013272ca0b43b03d0664ca07b498a0da359d1bfc06df1b05720a015fc12ef7d0454b7d50e8de7b7b314bba8c96b2b51ab4f3ec528f9a9fcbe535f9",
-    "dest": "bun_cache/@tauri-apps/cli-linux-riscv64-gnu@2.12.3@@@1",
+    "url": "https://registry.npmjs.org/@tauri-apps/cli-linux-riscv64-gnu/-/cli-linux-riscv64-gnu-2.12.4.tgz",
+    "sha512": "171e864a163f46f493fade8b3254c703077aebed6d11a0001ab9d4edccac55f6a244fd412a7839565eab5663baad22ce0354a9d5d4733583387f43964066fba8",
+    "dest": "bun_cache/@tauri-apps/cli-linux-riscv64-gnu@2.12.4@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@tauri-apps/cli-linux-x64-gnu/-/cli-linux-x64-gnu-2.12.3.tgz",
-    "sha512": "813904a8900608c44e19a9f11e7cda27343efeb5e5dfd1d6560d3f8433834b5c035811aaa1c7aa182e909b5fa641bc93d75c67b01f262aefe0c95203fd8a4523",
-    "dest": "bun_cache/@tauri-apps/cli-linux-x64-gnu@2.12.3@@@1",
+    "url": "https://registry.npmjs.org/@tauri-apps/cli-linux-x64-gnu/-/cli-linux-x64-gnu-2.12.4.tgz",
+    "sha512": "b4dcd949aefd6759d1a47c44a50dfc96c005a4a945958be85f38d357e951467ff349fdf0add502df09cb72ad9711a75c84fbb8b6d2b4ce2be1633afe5c60f5f5",
+    "dest": "bun_cache/@tauri-apps/cli-linux-x64-gnu@2.12.4@@@1",
     "dest-filename": "package.tgz",
     "only-arches": [
       "x86_64"
@@ -1545,9 +1545,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@tauri-apps/cli-linux-x64-musl/-/cli-linux-x64-musl-2.12.3.tgz",
-    "sha512": "4f6753c4bd6cbd1ca6ef57d9b5a5b8a596176ed85b7c5b0426bd4d78e520fe9ee56965d96d4b7ff0331265ff2b79cbbd7fbfb517f2efd341edcec12eeaf0cef7",
-    "dest": "bun_cache/@tauri-apps/cli-linux-x64-musl@2.12.3@@@1",
+    "url": "https://registry.npmjs.org/@tauri-apps/cli-linux-x64-musl/-/cli-linux-x64-musl-2.12.4.tgz",
+    "sha512": "8e6675a6bd3112a521b84bac5adb7d62df8617a9429c61d49882fe288927a5b8cafd7436aa48430616b12bf24c1ccd80f1d01a7155c2c57264d845e9c214147c",
+    "dest": "bun_cache/@tauri-apps/cli-linux-x64-musl@2.12.4@@@1",
     "dest-filename": "package.tgz",
     "only-arches": [
       "x86_64"
@@ -1562,9 +1562,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@tauri-apps/plugin-dialog/-/plugin-dialog-2.8.3.tgz",
-    "sha512": "1ddff205f936479bf6305af3ff4540ad25de87cc4a2cb5c6ba7a92893b5c1ca9f5ccd67068aba3b80d154b052f35fc02e210e81753ef792fa004335ede71eca7",
-    "dest": "bun_cache/@tauri-apps/plugin-dialog@2.8.3@@@1",
+    "url": "https://registry.npmjs.org/@tauri-apps/plugin-dialog/-/plugin-dialog-2.8.4.tgz",
+    "sha512": "fba64e8977a739ac57c1bf2a09b04f753da35f67053da5551c622c92ba6624ba665a3faa2914c3e97ff3f71ee14dd4909fb35e75ca170a45867a3e1aedd0b897",
+    "dest": "bun_cache/@tauri-apps/plugin-dialog@2.8.4@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -1597,9 +1597,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@tauri-apps/plugin-updater/-/plugin-updater-2.14.0.tgz",
-    "sha512": "81dca527db607abe219323a7db841977a30d38a568d84879de2c39b61d908f5bca4d1ffebb83c8c095ae8a2b39868858be86e7ea23af96700b7eba883d2ce1ed",
-    "dest": "bun_cache/@tauri-apps/plugin-updater@2.14.0@@@1",
+    "url": "https://registry.npmjs.org/@tauri-apps/plugin-updater/-/plugin-updater-2.14.1.tgz",
+    "sha512": "1ebee79419b5c13eb16f0ce367f4b7e9850b6b3bbc30d963e6fbcec0c978edf5c8ec74dae418e5d4f6c31305476994c02b3135559b14cb7e54aa76eb43199843",
+    "dest": "bun_cache/@tauri-apps/plugin-updater@2.14.1@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -1828,9 +1828,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@types/node/-/node-26.6.5.tgz",
-    "sha512": "b8ccecbfdb2d0dda1f219071e141a1e19f598179c60bdb1e443b1c8a505c4c701e38593aecc660fe4f5b5957cef9b938a99986fa5e768519cbc14887d8b9c94e",
-    "dest": "bun_cache/@types/node@26.6.5@@@1",
+    "url": "https://registry.npmjs.org/@types/node/-/node-26.6.6.tgz",
+    "sha512": "333423fbc2b1dd7238d0e994004e90a21e7c64c36cb4d34cc27da77dddea5ac7deee70cd4aa24dcdeb389e3873e801f0ad21ce7df48bc1753ac9be3be10e1aa2",
+    "dest": "bun_cache/@types/node@26.6.6@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -1967,9 +1967,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/baseline-browser-mapping/-/baseline-browser-mapping-2.11.30.tgz",
-    "sha512": "609b3a3f3d7b44c36ff07a3229112d098dfc137055d673e45959886fe5cdd6e1c2d55aaddca6421ffb891fd64a46888a6ff89c67ab6f7a1c9e7ba45935b15f44",
-    "dest": "bun_cache/baseline-browser-mapping@2.11.30@@@1",
+    "url": "https://registry.npmjs.org/baseline-browser-mapping/-/baseline-browser-mapping-2.11.34.tgz",
+    "sha512": "02aafc980d6422fc89dd463960063b89bf0b4a8d4398331b32756a18fb6c296d4bc5a1501709fd11bdf2bead9f50a26c46f6978e7015ed1e68b2a1136a9ccd88",
+    "dest": "bun_cache/baseline-browser-mapping@2.11.34@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -2002,9 +2002,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/browserslist/-/browserslist-4.29.4.tgz",
-    "sha512": "d9371b6e2c1712af8dd240f7eadca4a427f2c908a05179aec0d41b9cfa785e4e0f5fd24ea9520a8c99480e3a47eee63ab66446a0077e6a9793d69eb44fcc2c74",
-    "dest": "bun_cache/browserslist@4.29.4@@@1",
+    "url": "https://registry.npmjs.org/browserslist/-/browserslist-4.29.5.tgz",
+    "sha512": "9214e62aee4d1984e8b6a718a3c05ec3693844013d3ee5d14854571b695006b084407c9e43fbd7ea028cc5fa24c32c01b0b89764c9c7b2658c1b5a673bc27bb9",
+    "dest": "bun_cache/browserslist@4.29.5@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -2016,9 +2016,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001817.tgz",
-    "sha512": "b99d491bcd01c21b4c6a520018fc4f7e63611f277f07f9d376bde12135a545a992c807544ad3f51a8a74d5eed20f9aba27dd22c49bd60dbbe688555f0e09f86f",
-    "dest": "bun_cache/caniuse-lite@1.0.30001817@@@1",
+    "url": "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001820.tgz",
+    "sha512": "81f583e8cc6a542a803b098e0df65fec37215af96b03e49174d5fb71e2df837c51a9ee6cb238e917b120b250bfd2d88b88d4da8dd68d37fabc73fe6effb1b3f3",
+    "dest": "bun_cache/caniuse-lite@1.0.30001820@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -2450,9 +2450,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.5.461.tgz",
-    "sha512": "dd6645011cf5072fbfad872a43438b8f851c11d85deadcf62c4703b4a054abb7b2efb11e2753ad7ad63fe618d2531c3b742e6be6603b15f92145ba8ef6f9d30a",
-    "dest": "bun_cache/electron-to-chromium@1.5.461@@@1",
+    "url": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.5.468.tgz",
+    "sha512": "f17744a77b08a8ef8fce654fc61cea1eaff7fb20b1a78e26dbb726d96635b119f7661c0ac8a9aa4a2da1c7a8048669ce5e687c354b98134d33e8e9f39f99ba0c",
+    "dest": "bun_cache/electron-to-chromium@1.5.468@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -2464,9 +2464,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/es-toolkit/-/es-toolkit-1.52.0.tgz",
-    "sha512": "5d3344250875b58d5925571fe9ac8fff69f864fc9a1e55b6156b3bc6fc3975d3ee8545632c3de89505504bb91fe7c25b001e3c88bd2e2ff8dead3ae3b55de50c",
-    "dest": "bun_cache/es-toolkit@1.52.0@@@1",
+    "url": "https://registry.npmjs.org/es-toolkit/-/es-toolkit-1.53.1.tgz",
+    "sha512": "56131ce885e67b1bbc89815f2f669a030c3a22f25374796a04baee2e8114b37dd80f821c3f90dd65c2cec9b32c32698bb22cb573c3ec88bb2b3340dd22eb9150",
+    "dest": "bun_cache/es-toolkit@1.53.1@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -2527,16 +2527,16 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/flow-estree/-/flow-estree-0.336.0.tgz",
-    "sha512": "d15686587268babce1f3ca2d5396d527867fa08b03f91eb269e47443cb7c75ecec29023f44b8b99b77cdce488b60b849f98c0cdc94522a53aa1a994e239628df",
-    "dest": "bun_cache/flow-estree@0.336.0@@@1",
+    "url": "https://registry.npmjs.org/flow-estree/-/flow-estree-0.337.0.tgz",
+    "sha512": "f2ef71fd4af8e735807650fc48a1eadcc9ccb6d47a301d31db19dade6365c1fb3c052274ac21ffd42cab7efabb792abad69a6c8511d96e64213a9f3bd1698038",
+    "dest": "bun_cache/flow-estree@0.337.0@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/flow-parser/-/flow-parser-0.336.0.tgz",
-    "sha512": "3bc42f41ffc1deb045f9e6a071cf7f58c0237c9a1a29c91d81277c3d3feabcc2087b866354aad2a95e520e744500a63456b13caf90b8003620bd8866c245800c",
-    "dest": "bun_cache/flow-parser@0.336.0@@@1",
+    "url": "https://registry.npmjs.org/flow-parser/-/flow-parser-0.337.0.tgz",
+    "sha512": "8c6b2a4f9a89e89ffb803f3bd292a02fb2bcc7c97a23352fb419515fe39d2cfe041aba4317edec52a17c1e9c91fd870026cda654c5615b6199b319ad5dcf9a23",
+    "dest": "bun_cache/flow-parser@0.337.0@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -2618,9 +2618,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/ignore/-/ignore-7.0.13.tgz",
-    "sha512": "d84f10eab87ed51452abf61d686b0d7d7b04672f4556abfa0524ab9266493fb0676a83e745f28bf986a87cfbcffb9af3764d78e2a4a6ea2e3e86f3e051c6d5e1",
-    "dest": "bun_cache/ignore@7.0.13@@@1",
+    "url": "https://registry.npmjs.org/ignore/-/ignore-7.0.14.tgz",
+    "sha512": "c0206267beeed6db9675ee86fe77ceb4b6824d87050d4e720b3011ccad74cbeacb8736282fb6bbc847a6728a5c736333a30ee064e2239d5db29b535899d88939",
+    "dest": "bun_cache/ignore@7.0.14@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -2910,9 +2910,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/lucide-react/-/lucide-react-1.60.0.tgz",
-    "sha512": "52ac4e5b416001f0f26fd5668ca6fafc190ecd6eb27e17ff40d6e82ad4b6343b2c7273515b6083ce5ca16cc281435a27b66731b880ea1c9d80560151dcd23e18",
-    "dest": "bun_cache/lucide-react@1.60.0@@@1",
+    "url": "https://registry.npmjs.org/lucide-react/-/lucide-react-1.65.0.tgz",
+    "sha512": "ae849db73b9d118dfd8b6867e4b2e303cb6861f845db3e12d74592a99178b9b5e91e53a6353bdac4cc592dd25f4038baa4489f4165fe7119988a1292b2f0317c",
+    "dest": "bun_cache/lucide-react@1.65.0@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -2994,9 +2994,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/node-releases/-/node-releases-2.0.59.tgz",
-    "sha512": "e6aaf6a240b822d008d211b949a5741e860ca6733f63af8eaabec098f632ff6b84a06bd2f866d228b791c524b5b8076ee7dcb3d28bb372e5e27af4a083ffff58",
-    "dest": "bun_cache/node-releases@2.0.59@@@1",
+    "url": "https://registry.npmjs.org/node-releases/-/node-releases-2.0.62.tgz",
+    "sha512": "03412afaa543408f7b21b003ea0fc7ae222ebf6e7a7a5f4df04c05e3ec6a278f69c2b7516297424a62e4d2c3b82377e74ba869604e6fdb607bdc193e580ac4a1",
+    "dest": "bun_cache/node-releases@2.0.62@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -3036,9 +3036,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/oxlint/-/oxlint-1.89.0.tgz",
-    "sha512": "6b6e6191fa3ad689063ef273e37d9f4483e8c652ad367395cbdc38af3ae61a0366e225533f0a5242599da8d5a7a7aa7d432c8f55f0194609dfe57bd2059164fc",
-    "dest": "bun_cache/oxlint@1.89.0@@@1",
+    "url": "https://registry.npmjs.org/oxlint/-/oxlint-1.90.0.tgz",
+    "sha512": "4644cdf449a0214a4bba13682e13b73a588c18996f6f70e4ed75630599dfa0c087ad5a6ecf911277dee495f8b261e57b5df03694d2e70c23cc91423e430e47a3",
+    "dest": "bun_cache/oxlint@1.90.0@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -3190,9 +3190,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/postcss/-/postcss-8.5.31.tgz",
-    "sha512": "6146d6602804af09cc01592352761af8a94c0731a91f0888b7f0c4edfd06df702e5f62c7f5471393a2a05b1777cd153ea4ddeefc2f9797712730b3381de6bb4a",
-    "dest": "bun_cache/postcss@8.5.31@@@1",
+    "url": "https://registry.npmjs.org/postcss/-/postcss-8.5.32.tgz",
+    "sha512": "2c994a08201414a3ae6718a951d630d4dcc821312c3dc832386f4b92f449bee2a3fdb4736ee458d00457bcbd29586a6c66f9fc8e4bbe2cc7a9d9e534b1e1e9f2",
+    "dest": "bun_cache/postcss@8.5.32@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -3246,16 +3246,16 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/react-router/-/react-router-7.18.4.tgz",
-    "sha512": "3d43d070c84c19102c94b72fb653f3fe49b304458f84b7602c5acbee92cd7a904be9d5f49568f8583d9c518560602b93de3c6f82160583cd5c0d38f8e0385eb5",
-    "dest": "bun_cache/react-router@7.18.4@@@1",
+    "url": "https://registry.npmjs.org/react-router/-/react-router-7.18.5.tgz",
+    "sha512": "75382f7170ceacb3eb94b1eb71902a5af7a22b584c4aa37eac6009cde80ff07b663647d1c4ea2c846581357dd92747198ce1e445d95426d68885930b2f21b23f",
+    "dest": "bun_cache/react-router@7.18.5@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/react-router-dom/-/react-router-dom-7.18.4.tgz",
-    "sha512": "cab7e62472290c6eed682a6a2a34f51b907aab73b62be44df3f7e035fd254e30b088f6d0d1e8babd75fd663411fbb95df13afb679c66c8c9d9f1826ba6159053",
-    "dest": "bun_cache/react-router-dom@7.18.4@@@1",
+    "url": "https://registry.npmjs.org/react-router-dom/-/react-router-dom-7.18.5.tgz",
+    "sha512": "f4771f0cc53a249fdfa7a8096581b0344e919275464b89018c7d4790dc3de7d982262ef44d5c1d8a9416bf6144a25f6e1a98be4994c5b55a493ed1107dac9e3b",
+    "dest": "bun_cache/react-router-dom@7.18.5@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -3288,9 +3288,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/rolldown/-/rolldown-1.2.14.tgz",
-    "sha512": "7930534ea311eae1ca2e0714aa924ff27b730c8e95e0b600f277a000c04423b824815bce76bc7a56cbd2d989bef372a138f74b087589bb4c3b5101496611ca37",
-    "dest": "bun_cache/rolldown@1.2.14@@@1",
+    "url": "https://registry.npmjs.org/rolldown/-/rolldown-1.2.16.tgz",
+    "sha512": "6d6be532914a8937c329f9caec50b630f80f79609ffcaa70b2ae3d029756f8541a0596fa3ba759e0c00f6cf523a7b85842bc3f4686ea0b39fae0146b41e7061f",
+    "dest": "bun_cache/rolldown@1.2.16@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -3344,9 +3344,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/set-cookie-parser/-/set-cookie-parser-2.7.2.tgz",
-    "sha512": "a1e33596953f52f853c70fa0ddc21fc571f225173fba275ddf22b53f6e368331ddb34b9d401633b37cbc8f8802096f9927b69dd3272d95df1160ef9b76eae5bf",
-    "dest": "bun_cache/set-cookie-parser@2.7.2@@@1",
+    "url": "https://registry.npmjs.org/set-cookie-parser/-/set-cookie-parser-2.7.3.tgz",
+    "sha512": "8ab647b53aaeacb9dae7b2901bfb3e7f33b0bff27a5d21f872cf0cfefb2b637b82690dd2ebe40982e007d1674de3b497964f36be8319e276963107fc7dd12822",
+    "dest": "bun_cache/set-cookie-parser@2.7.3@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -3582,9 +3582,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/vite/-/vite-8.3.4.tgz",
-    "sha512": "21fb4b13ca6126174d44818d115e09082bdf35272865055f71768df1342ba2958626d38772efa2001f691dcb86be611bfe475dc342c17bf8d2f33b5d0bac5d89",
-    "dest": "bun_cache/vite@8.3.4@@@1",
+    "url": "https://registry.npmjs.org/vite/-/vite-8.3.5.tgz",
+    "sha512": "cf56298e2789f60d1e6d3990a4b06ffe8abd13717d10894e7beecb6a15bc4ab1372d3886dee7414545d03a56173fd6fe202daada9847795c63f711a5c37e0e11",
+    "dest": "bun_cache/vite@8.3.5@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -3610,9 +3610,9 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/vscode-languageserver-textdocument/-/vscode-languageserver-textdocument-1.0.15.tgz",
-    "sha512": "1ac7ebf52f0b5374baf3ce5c4be35a95e6ac2749f7579cbf48e4ea1c289f4225d6170dc6f70f7f608b437f01eb942cfe752656599f2295854c7097bb4b3ed2c7",
-    "dest": "bun_cache/vscode-languageserver-textdocument@1.0.15@@@1",
+    "url": "https://registry.npmjs.org/vscode-languageserver-textdocument/-/vscode-languageserver-textdocument-1.0.16.tgz",
+    "sha512": "a9e344b8e8bd6b7aa4a917fb19f7b3d962f65709414cb08d7a41c118ef64c4f554a7d5ee635e727d327d8f0bcec0a2342363215147d9abde4d4a9f8b2b508b42",
+    "dest": "bun_cache/vscode-languageserver-textdocument@1.0.16@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -3673,16 +3673,23 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/zustand/-/zustand-5.0.15.tgz",
-    "sha512": "3294848d1881900f5cad261e3941f7dab242ed256a01b9b416a72a81efdb522d8f3e82dc05628eb06f82f267af9a9afc4f05c705590285b6c98b2be413e8bfdc",
-    "dest": "bun_cache/zustand@5.0.15@@@1",
+    "url": "https://registry.npmjs.org/zustand/-/zustand-5.0.16.tgz",
+    "sha512": "52fededf6ee286509f6b27e36b784373433ae14a5ebf52d604aa51a1b74ae0dca8bc30cf79e5f88a659773fc330b5c9ce9f9183e8018fe770a54f02cda3aed43",
+    "dest": "bun_cache/zustand@5.0.16@@@1",
     "dest-filename": "package.tgz"
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/@babel/parser/-/parser-7.29.9.tgz",
-    "sha512": "0a35eb3474e7bea055a8781d072b18def9364fcb692476f9fd131e1c9053c956bdc60ba0081d02253c7fde83bc455d904503f7f75456a41ec3ea12e39bc57db8",
-    "dest": "bun_cache/@babel/parser@7.29.9@@@1",
+    "url": "https://registry.npmjs.org/@babel/parser/-/parser-7.29.12.tgz",
+    "sha512": "589ec9069fd0e3ecff226c9db48ee34ba355728e7efbadf613105e9925fe62c6fe1b5942c10e41568dd263e8c618e7195c8e1971c6d94944892cd056e9e12926",
+    "dest": "bun_cache/@babel/parser@7.29.12@@@1",
+    "dest-filename": "package.tgz"
+  },
+  {
+    "type": "file",
+    "url": "https://registry.npmjs.org/@babel/types/-/types-7.29.11.tgz",
+    "sha512": "582b1e996e340a973a828b82d52ad8e8f05a67ea0b46511563d5c1bd9048ee297f1f252b6f69c9e74e70135307105c8364d9eb58312ecb88cbe745951df4d349",
+    "dest": "bun_cache/@babel/types@7.29.11@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -3876,9 +3883,16 @@
   },
   {
     "type": "file",
-    "url": "https://registry.npmjs.org/magic-string/-/magic-string-1.4.3.tgz",
-    "sha512": "cf5d8ec6668f184d05e3196919d8ee0147248a92e94254c0b809b21a13680fb383a58533bc37efb7151b8ccfe3c339f23f5efca23bbf2837728b6db4c0d27445",
-    "dest": "bun_cache/magic-string@1.4.3@@@1",
+    "url": "https://registry.npmjs.org/@sentry/core/-/core-11.10.0.tgz",
+    "sha512": "97f3ad4e8d6ff9342066d1c6d90e4de085fe805740135b59dbb2bf3f6d540b3260956939e133c49be77d4f696e94fa8c2b4ea465c2f00e0440844d863b8612e7",
+    "dest": "bun_cache/@sentry/core@11.10.0@@@1",
+    "dest-filename": "package.tgz"
+  },
+  {
+    "type": "file",
+    "url": "https://registry.npmjs.org/magic-string/-/magic-string-1.4.5.tgz",
+    "sha512": "a0b2c2dbe62f4147c06bebf1a2e7c4ff273589c6fceccf625c846a02847fd84844ffc71bdd217ff868b4736072d41fb9573d9edaf42d52f1e2bb5fbadd99e1fb",
+    "dest": "bun_cache/magic-string@1.4.5@@@1",
     "dest-filename": "package.tgz"
   },
   {
@@ -4117,6 +4131,13 @@
     "url": "https://registry.npmjs.org/@radix-ui/react-use-callback-ref/-/react-use-callback-ref-1.0.0.tgz",
     "sha512": "199b72ce81f3f79461b3a4badc3dadfdeaaf7450a6ec8fb21cc2d542178a33b9c10fc99b648b7e72dd63cf8e77e8c0e768e18a231ca727c7874e45465559284e",
     "dest": "bun_cache/@radix-ui/react-use-callback-ref@1.0.0@@@1",
+    "dest-filename": "package.tgz"
+  },
+  {
+    "type": "file",
+    "url": "https://registry.npmjs.org/@sentry/conventions/-/conventions-0.29.0.tgz",
+    "sha512": "918abdfc727f97a3183ffb2b21cdb4772d56e265b225f085d0e58517e461046670cabff00a6b5a6d114acb0ee4a8cf834f065740e8d24d2654709843a307089d",
+    "dest": "bun_cache/@sentry/conventions@0.29.0@@@1",
     "dest-filename": "package.tgz"
   },
   {
